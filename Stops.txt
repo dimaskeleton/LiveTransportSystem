@@ -1,0 +1,10 @@
+StopID, Name, LocationLat, LocationLong
+Stop1, Newark Penn Station, 40.734502, -74.16476
+Stop2, Journal Square, 40.73276, -74.0621
+Stop3, Port Authority Bus Terminal, 40.75658, -73.99058
+Stop4, Trenton Transit Center, 40.21836, -74.75412
+Stop5, Princeton Junction, 40.31673, -74.62386
+Stop6, New Brunswick Station, 40.49842, -74.44485
+Stop7, Fort Lee, 40.85093, -73.97014
+Stop8, Edgewater, 40.82745, -73.97599
+Stop9, GWB Bus Terminal, 40.85049, -73.94425
