@@ -1,0 +1,4 @@
+RouteID, Name, Stops, Vehicles
+R101, NJ Transit Bus 119, Stop1|Stop2|Stop3, V101
+R102, Northeast Corridor Rail, Stop4|Stop5|Stop6, V102
+R103, NJ Transit Bus 158, Stop7|Stop8|Stop9, V103
