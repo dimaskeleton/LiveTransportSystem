@@ -1,0 +1,14 @@
+VehicleID, Type, LocationLat, LocationLong, Status
+V101, Bus, 40.7128, -74.006, OnTime
+V102, Train, 40.2191, -74.0021, Delayed
+V103, Bus, 40.85843, -74.20542, OnTime
+V105, Bus, 40.518716, -74.412095, Delayed
+V106, Train, 40.645, -74.177, OnTime
+V107, Bus, 40.221, -74.756, Cancelled
+V108, Bus, 40.872, -74.425, Delayed
+V109, Train, 40.3573, -74.6672, OnTime
+V111, Bus, 40.617, -74.42, Delayed
+V112, Train, 40.734, -74.164, Cancelled
+V113, Bus, 40.728, -74.078, OnTime
+V114,Taxi, 40.818,-74.365, Delayed
+V115,Train, 40.668,-74.114, On Time
